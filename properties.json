@@ -7,12 +7,45 @@
       "id": 1,
       "title": "Hore Browser",
       "version": "1.1",
-      "author": "hot samsa (Александр Пушкин)",
+      "author": "hot samsa",
       "description": "Лёгкий браузер для Windows 10 Mobile",
       "icon_url": "http://markt.hotsamsa.top/icons/1.png",
       "download_url": "http://markt.hotsamsa.top/files/HoreBrowser_1.1.appxbundle",
-      "size": "1,5 MB",
+      "size": "1.5 MB",
       "category": "Utilities"
+    },
+    {
+      "id": 2,
+      "title": "Unigram Mobile",
+      "version": "22.12.6076",
+      "author": "abaculi",
+      "description": "Неофициальный, более современный и функциональный клиент Telegram для Windows 10 и выше",
+      "icon_url": "http://markt.hotsamsa.top/icons/2.png",
+      "download_url": "https://www.dropbox.com/scl/fi/eyv5lcj7pt0amxbvuikg3/UnigramMobile.appx?rlkey=ljhz4az0g3x07ltdh4wv9p9gx&e=1&st=ta6jum2s&dl=1",
+      "size": "40.9 MB",
+      "category": "Utilities"
+    },
+    {
+      "id": 3,
+      "title": "Minecraft 1.16",
+      "version": "1.16",
+      "author": "Mojang Studios",
+      "description": "Minecraft Bedrock Edition, крутая игра",
+      "icon_url": "http://markt.hotsamsa.top/icons/3.png",
+      "download_url": "https://www.dropbox.com/scl/fi/2wbp1j0xcbuib0x4l3i3q/Minecraft_1.16.appx?rlkey=mylwhkrfa0gj5ftqfqlui9xex&st=0r1q3wsp&dl=1",
+      "size": "86.3 MB",
+      "category": "Games"
+    },
+    {
+      "id": 4,
+      "title": "Minecraft PE",
+      "version": "1.1",
+      "author": "Microsoft Studios",
+      "description": "Minecraft Pocket Edition, крутая игра (возможно совместима с Windows Phone 8.1)",
+      "icon_url": "http://markt.hotsamsa.top/icons/4.png",
+      "download_url": "https://www.dropbox.com/scl/fi/giwk0vutwkhidcozjp8x9/Minecraft_PE.appx?rlkey=3n0gkxzsj2sp1a08z320qkpvr&st=v4s2z7w6&dl=1",
+      "size": "48.2 MB",
+      "category": "Games"
     }
   ]
 }
