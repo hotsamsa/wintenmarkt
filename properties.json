@@ -57,6 +57,17 @@
       "download_url": "http://f1258072.xsph.ru/MEmarket_0.0.1.0.appxbundle",
       "size": "92.8 KB",
       "category": "Tools"
+    },
+    {
+      "id": 6,
+      "title": "SberQML",
+      "version": "0.6.0.0",
+      "author": "Computershik",
+      "description": "Неофициальный клиент Сбербанк Онлайн для Windows Phone",
+      "icon_url": "http://markt.hotsamsa.top/icons/6.png",
+      "download_url": "http://f1258072.xsph.ru/SberQML_0.6.0.0.appx",
+      "size": "11.9 MB",
+      "category": "Tools"
     }
   ]
 }
