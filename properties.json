@@ -46,6 +46,17 @@
       "download_url": "http://f1258072.xsph.ru/Minecraft_PE.appx",
       "size": "48.2 MB",
       "category": "Games"
-    }
+    },
+    {
+      "id": 5,
+      "title": "MEmarket",
+      "version": "0.0.1.0",
+      "author": "kameton.dev",
+      "description": "Тут будут обновления магазина, в котором вы сидите",
+      "icon_url": "http://markt.hotsamsa.top/icons/5.png",
+      "download_url": "http://f1258072.xsph.ru/MEmarket_0.0.1.0.appxbundle",
+      "size": "92.8 KB",
+      "category": "Tools"
+    },
   ]
 }
