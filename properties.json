@@ -70,6 +70,17 @@
       "category": "tools"
     },
     {
+      "id": "market.millenium.resigned",
+      "title": "MEmarket RESIGNED",
+      "version": "0.0.1.2 Public Beta",
+      "author": "kameton.dev",
+      "description": "Подписанные версии MEmarket для пользователей Windows 10 Mobile",
+      "icon_url": "http://markt.hotsamsa.top/icons/market_millenium.png",
+      "download_url": "http://f1258072.xsph.ru/MEmarket_0.0.1.2_RESIGNED.appxbundle",
+      "size": "0.1 MB",
+      "category": "tools"
+    },
+    {
       "id": "bank.sberqml",
       "title": "SberQML",
       "version": "0.6.0.0",
