@@ -46,7 +46,7 @@
       "description": "Minecraft, крутая игра",
       "icon_url": "http://markt.hotsamsa.top/icons/game.minecraft-116.png",
       "size": "86.3 MB",
-      "category": "games"
+      "category": "games",
       "versions": [
         {
           "version": "1.16",
