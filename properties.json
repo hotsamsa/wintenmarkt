@@ -1,95 +1,62 @@
 {
   "repo_name": "Win10Markt",
   "creator": "hot samsa",
-  "last_updated": "2026-25-04",
+  "last_updated": "2026-01-05",
   "apps": [
     {
       "id": "browser.hore",
+      "base_url": "http://f1258072.xsph.ru/apps/browser.hore/",
       "title": "Hore Browser",
-      "version": "1.1",
+      "screenshots": [],
       "author": "hot samsa",
       "description": "Лёгкий браузер для Windows 10 Mobile",
       "icon_url": "http://markt.hotsamsa.top/icons/browser_hore.png",
-      "download_url": "http://markt.hotsamsa.top/files/HoreBrowser_1.1.appxbundle",
       "size": "1.5 MB",
-      "category": "entertaintment"
+      "category": "entertaintment",
+      "versions": [
+        {
+          "version": "1.1.1.0",
+          "download_url": "http://f1258072.xsph.ru/apps/browser.hore/1.1.1.0.appxbundle"
+        },
+        {
+          "version": "1.1.0.0",
+          "download_url": "http://f1258072.xsph.ru/apps/browser.hore/1.1.0.0.appxbundle"
+        }
+      ]
     },
     {
       "id": "messenger.unigram",
+      "base_url": "http://f1258072.xsph.ru/apps/messenger.unigram/",
       "title": "Unigram Mobile",
-      "version": "22.12.6076",
+      "screenshots": [],
       "author": "abaculi",
       "description": "Неофициальный, более современный и функциональный клиент Telegram для Windows 10 и выше",
       "icon_url": "http://markt.hotsamsa.top/icons/messenger_unigram.png",
-      "download_url": "http://f1258072.xsph.ru/UnigramMobile.appx",
       "size": "40.9 MB",
-      "category": "social"
+      "category": "social",
+      "version": "22.12.6076",
+      "download_url": "http://f1258072.xsph.ru/UnigramMobile.appx"
     },
     {
       "id": "game.minecraft",
+      "base_url": "http://f1258072.xsph.ru/apps/game.minecraft/",
       "title": "Minecraft",
-      "version": "1.16 Bedrock (10 Mobile)",
+      "screenshots": [],
       "author": "Mojang Studios",
-      "description": "Minecraft Bedrock Edition, крутая игра",
+      "description": "Minecraft, крутая игра",
       "icon_url": "http://markt.hotsamsa.top/icons/game.minecraft-116.png",
-      "download_url": "http://f1258072.xsph.ru/Minecraft_1.16.appx",
       "size": "86.3 MB",
       "category": "games"
-    },
-    {
-      "id": "game.minecraft",
-      "title": "Minecraft",
-      "version": "Minecraft PE (8.1)",
-      "author": "Microsoft Studios",
-      "description": "Minecraft Pocket Edition, крутая игра (возможно совместима с Windows Phone 8.1)",
-      "icon_url": "http://markt.hotsamsa.top/icons/game_minecraft-pe.png",
-      "download_url": "http://f1258072.xsph.ru/Minecraft_PE.appx",
-      "size": "48.2 MB",
-      "category": "games"
-    },
-    {
-      "id": "market.millenium.resigned",
-      "title": "MEmarket RESIGNED",
-      "version": "0.0.1.0 Public Beta",
-      "author": "kameton.dev",
-      "description": "Подписанные версии MEmarket для пользователей Windows 10 Mobile",
-      "icon_url": "http://markt.hotsamsa.top/icons/market_millenium.png",
-      "download_url": "http://f1258072.xsph.ru/MEmarket_0.0.1.0_RESIGNED.appxbundle",
-      "size": "0.1 MB",
-      "category": "tools"
-    },
-    {
-      "id": "market.millenium.resigned",
-      "title": "MEmarket RESIGNED",
-      "version": "0.0.1.1 Public Beta",
-      "author": "kameton.dev",
-      "description": "Подписанные версии MEmarket для пользователей Windows 10 Mobile",
-      "icon_url": "http://markt.hotsamsa.top/icons/market_millenium.png",
-      "download_url": "http://f1258072.xsph.ru/MEmarket_0.0.1.1_RESIGNED.appxbundle",
-      "size": "0.1 MB",
-      "category": "tools"
-    },
-    {
-      "id": "market.millenium.resigned",
-      "title": "MEmarket RESIGNED",
-      "version": "0.0.1.2 Public Beta",
-      "author": "kameton.dev",
-      "description": "Подписанные версии MEmarket для пользователей Windows 10 Mobile",
-      "icon_url": "http://markt.hotsamsa.top/icons/market_millenium.png",
-      "download_url": "http://f1258072.xsph.ru/MEmarket_0.0.1.2_RESIGNED.appxbundle",
-      "size": "0.1 MB",
-      "category": "tools"
-    },
-    {
-      "id": "bank.sberqml",
-      "title": "SberQML",
-      "version": "0.6.0.0",
-      "author": "Computershik",
-      "description": "Неофициальный клиент Сбербанк Онлайн для Windows Phone",
-      "icon_url": "http://markt.hotsamsa.top/icons/bank_sberqml.png",
-      "download_url": "http://f1258072.xsph.ru/SberQML_0.6.0.0.appx",
-      "size": "11.9 MB",
-      "category": "livestyle"
+      "versions": [
+        {
+          "version": "1.16",
+          "download_url": "http://f1258072.xsph.ru/apps/game.minecraft/1.16.appxbundle"
+        },
+        {
+          "version": "PE",
+          "download_url": "http://f1258072.xsph.ru/apps/game.minecraft/PE.appxbundle"
+        }
+      ]
     }
   ]
 }
