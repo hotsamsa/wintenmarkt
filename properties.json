@@ -57,6 +57,48 @@
           "download_url": "http://f1258072.xsph.ru/apps/game.minecraft/PE.appxbundle"
         }
       ]
+    },
+    {
+      "id": "market.millenium.resigned",
+      "base_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned",
+      "title": "MEmarket RESIGNED",
+      "screenshots": [],
+      "author": "kameton.dev",
+      "description": "Подписанные версии MEmarket для пользователей Windows 10 Mobile",
+      "icon_url": "http://markt.hotsamsa.top/icons/market_millenium.png",
+      "size": "0.1 MB",
+      "category": "tools",
+      "versions": [
+        {
+          "version": "0.0.1.3 Publuc Beta",
+          "download_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned/0.0.1.3.appxbundle"
+        },
+        {
+          "version": "0.0.1.2 Public Beta",
+          "download_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned/0.0.1.2.appx"
+        },
+        {
+          "version": "0.0.1.1 Public Beta",
+          "download_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned/0.0.1.1.appxbundle"
+        },
+        {
+          "version": "0.0.1.0 Public Beta",
+          "download_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned/0.0.1.0.appxbundle"
+        }
+      ]
+    },
+    {
+      "id": "bank.sberqml",
+      "base_url": "http://f1258072.xsph.ru/apps/bank.sberqml",
+      "title": "SberQML",
+      "screenshots": [],
+      "author": "Computershik",
+      "description": "Неофициальный клиент Сбербанк Онлайн для Windows Phone",
+      "icon_url": "http://markt.hotsamsa.top/icons/bank_sberqml.png",
+      "size": "11.9 MB",
+      "category": "livestyle",
+      "version": "0.6.0.0",
+      "download_url": "http://f1258072.xsph.ru/SberQML_0.6.0.0.appx"
     }
   ]
 }
