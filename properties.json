@@ -99,6 +99,19 @@
       "category": "livestyle",
       "version": "0.6.0.0",
       "download_url": "http://f1258072.xsph.ru/SberQML_0.6.0.0.appx"
+    },
+    {
+      "id": "store.winarchive",
+      "base_url": "http://f1258072.xsph.ru/apps/store.winarchive",
+      "title": "WinArchive",
+      "screenshots": [],
+      "author": "LegacyProjects"
+      "description": "Альтернативный магазин приложений для Windows 10 Mobile",
+      "icon_url": "http://markt.hotsamsa.top/icons/store_winarchive.png",
+      "size": "3.1 MB",
+      "category": "store",
+      "version": "1.1.0.0",
+      "download_url": "http://f1258072.xsph.ru/apps/store.winarchive/1.1.0.0.appxbundle"
     }
   ]
 }
