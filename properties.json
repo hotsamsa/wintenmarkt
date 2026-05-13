@@ -1,11 +1,13 @@
 {
   "repo_name": "Win10Markt",
   "creator": "hot samsa",
-  "last_updated": "2026-01-05",
+  "supported_os": ["W10M"],
+  "last_updated": "2026-13-05",
   "apps": [
     {
       "id": "browser.hore",
       "base_url": "http://f1258072.xsph.ru/apps/browser.hore/",
+      "os": "W10M",
       "title": "Hore Browser",
       "screenshots": [],
       "author": "hot samsa",
@@ -27,6 +29,7 @@
     {
       "id": "messenger.unigram",
       "base_url": "http://f1258072.xsph.ru/apps/messenger.unigram/",
+      "os": "W10M",
       "title": "Unigram Mobile",
       "screenshots": [],
       "author": "abaculi",
@@ -40,6 +43,7 @@
     {
       "id": "game.minecraft",
       "base_url": "http://f1258072.xsph.ru/apps/game.minecraft/",
+      "os": "W10M",
       "title": "Minecraft",
       "screenshots": [],
       "author": "Mojang Studios",
@@ -61,14 +65,19 @@
     {
       "id": "market.millenium.resigned",
       "base_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned",
+      "os": "W10M",
       "title": "MEmarket RESIGNED",
       "screenshots": [],
       "author": "kameton.dev",
-      "description": "Подписанные версии MEmarket для пользователей Windows 10 Mobile",
+      "description": "Подписанные версии MEmarket (WinRT) для пользователей Windows 10 Mobile, которым не нравится UWP версия",
       "icon_url": "http://markt.hotsamsa.top/icons/market_millenium.png",
       "size": "0.1 MB",
       "category": "tools",
       "versions": [
+        {
+          "version": "0.0.2.0 Publuc Beta",
+          "download_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned/0.0.2.0.appxbundle"
+        },
         {
           "version": "0.0.1.3 Publuc Beta",
           "download_url": "http://f1258072.xsph.ru/apps/market.millenium.resigned/0.0.1.3.appxbundle"
@@ -90,6 +99,7 @@
     {
       "id": "bank.sberqml",
       "base_url": "http://f1258072.xsph.ru/apps/bank.sberqml",
+      "os": "W10M",
       "title": "SberQML",
       "screenshots": [],
       "author": "Computershik",
@@ -103,6 +113,7 @@
     {
       "id": "store.winarchive",
       "base_url": "http://f1258072.xsph.ru/apps/store.winarchive",
+      "os": "W10M",
       "title": "WinArchive",
       "screenshots": [],
       "author": "LegacyProjects",
